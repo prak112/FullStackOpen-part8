@@ -1,0 +1,26 @@
+{
+  "name": "fullstackopen-part8",
+  "version": "1.0.0",
+  "description": "GraphQL practice and exercises from Full Stack open course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prak112/FullStackOpen-part8.git"
+  },
+  "keywords": [
+    "GraphQL"
+  ],
+  "author": "Prakirth Govardhanam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prak112/FullStackOpen-part8/issues"
+  },
+  "homepage": "https://github.com/prak112/FullStackOpen-part8#readme",
+  "dependencies": {
+    "@apollo/server": "^4.11.0",
+    "graphql": "^16.9.0"
+  }
+}
