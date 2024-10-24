@@ -10,6 +10,11 @@
 
 # Part 8 - GraphQL
 - Practice exercises with [Phonebook app](/phonebook/)
-    - 
+
+- GraphQL key components :
+  - Schema (objects with fields) 
+  - Query (requests definition)  
+  - Resolver (response function/structure of Query) 
+
 
 - Course exercises ...*coming soon*...
